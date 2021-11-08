@@ -1,2 +1,1 @@
-print('nothing')
-print('nothing' * 2)
+print('something')
