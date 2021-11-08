@@ -1,2 +1,1 @@
-print('something')
-print('something ' *2)
+p
